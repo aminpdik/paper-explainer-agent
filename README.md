@@ -232,7 +232,6 @@ visual_regions/                    # Cropped figures and tables
 
 ## License
 
-This project is currently shared for research and educational purposes. Add a license file, such as MIT, before publishing publicly if you want others to reuse or modify it.
 
 ## Author
 
