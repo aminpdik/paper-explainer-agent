@@ -1,4 +1,4 @@
-# Research Paper Explainer
+# Research Paper Explainer (In progress)
 
 Research Paper Explainer is a **LangGraph + Streamlit** application that turns a research paper PDF into a beginner-friendly explanation document.
 
